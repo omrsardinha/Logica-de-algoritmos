@@ -1,6 +1,8 @@
 Algoritmo "Primeiro"
 Var
+    msg: caractere
 
 Inicio
-    Escreva (" Olá, mundo!")
+    msg <- "Olá, mundo!"
+    Escreva (msg)
 FimAlgoritmo
