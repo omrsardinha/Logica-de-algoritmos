@@ -4,6 +4,6 @@ Var
 
 Inicio
     msg <- "Olá, mundo!"
-    Escreval (msg)
+    Escreval ("Mensagem:", msg)
     Escreva ("Me livrei da maldição!")
 FimAlgoritmo
