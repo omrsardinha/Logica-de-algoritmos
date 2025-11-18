@@ -1,5 +1,5 @@
 # Logica-de-algoritmos
-Repositório dedicado a meus projetos de lógica de algoritmos desenvolvidos no ano de 2022 em um caderno de 10 matérias.   
+Repositório dedicado a meus projetos de lógica de algoritmos desenvolvidos no ano de 2023 em um caderno de 10 matérias.   
 
 -Professor: Gustavo Guanabara 
 
