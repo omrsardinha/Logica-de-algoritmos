@@ -1,7 +1,5 @@
 # Aula 03
 
----
-
 ## Meu Nome
 
 ### Visão Geral
