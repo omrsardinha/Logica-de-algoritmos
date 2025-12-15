@@ -9,9 +9,7 @@ Descrição: Perguntar o nome e exibir na tela.
 
 ## Objetivos
 
-1. Perguntar o nome do usuário 
-2. Ler o nome do usuário 
-3. Devolver o nome do usuário com saudação
+1. Perguntar o nome do usuário e exibir o nome na tela.
 
 ## Funcionalidades principais
 
@@ -37,7 +35,7 @@ Descrição: Salvar nome na memória para exibição
 
 
 ### 3. Devolver o nome do usuário com saudação  
-Descrição: Exibir o nome do Usuário 
+Descrição: Exibir o nome do Usuário na tela
     
     Output
 
