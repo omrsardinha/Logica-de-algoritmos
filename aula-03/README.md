@@ -10,35 +10,42 @@ Descrição: Perguntar o nome e exibir na tela.
 ## Objetivos
 
 1. Perguntar o nome do usuário 
-   
-    ### Input
-    
+2. Ler o nome do usuário 
+3. Devolver o nome do usuário com saudação
+
+## Funcionalidades principais
+
+### 1. Entrada de dados (nome)
+Descrição: Perguntar o nome do usuário
+
+    Input
+
     ```Portugol
     Escreva("Qual o seu nome?")
     ```
 
----
+### 2. Coletar nome para exibição
+Descrição: Salvar nome na memória para exibição
 
-2. Ler o nome do usuário 
-    
-    ### Save Input
+    Save Input
 
     ```Portugol
     Escreva("Qual o seu nome?")
     Leia(nome)
     ```
 
----
 
-3. Devolver o nome do usuário com saudação  
+
+### 3. Devolver o nome do usuário com saudação  
+Descrição: Exibir o nome do Usuário 
     
-    ### Output
+    Output
 
     ```Portugol
     Escreva("Muito prazer, ", nome)
     ```
 
----
+
 
 ## Soma Numérica e Média:
 
